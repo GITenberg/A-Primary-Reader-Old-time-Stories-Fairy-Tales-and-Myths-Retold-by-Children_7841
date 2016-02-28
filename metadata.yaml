@@ -1,0 +1,33 @@
+_repo: A-Primary-Reader-Old-time-Stories-Fairy-Tales-and-Myths-Retold-by-Children_7841
+creator:
+  author:
+    agent_name: Smythe, E. Louise (Emma Louise)
+    birthdate: 1858
+    gutenberg_agent_id: '2553'
+    url: http://www.gutenberg.org/2009/agents/2553
+description: ''
+gutenberg_bookshelf:
+- Children's Myths, Fairy Tales, etc.
+- Children's Instructional Books
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7841'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s literature'
+- !lcc 'PZ'
+- !lcc 'PE'
+- !lcsh 'Mythology, Norse -- Juvenile literature'
+- !lcsh 'Readers (Elementary)'
+- !lcsh 'Mythology, Classical -- Juvenile literature'
+- !lcsh 'Fairy tales'
+tableOfContents: The ugly duckling -- The little pine tree -- The little match girl
+  -- Little Red Riding-Hood -- The apples of Idun -- How Thor got the hammer -- The
+  hammer lost and found -- The story of the sheep -- The good ship Argo -- Jason and
+  the harpies -- The brass bulls -- Jason and the dragon.
+title: 'A Primary Reader: Old-time Stories, Fairy Tales and Myths Retold by Children'
+url: http://www.gutenberg.org/ebooks/7841
