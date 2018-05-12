@@ -1,4 +1,8 @@
 _repo: A-Primary-Reader-Old-time-Stories-Fairy-Tales-and-Myths-Retold-by-Children_7841
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Smythe, E. Louise (Emma Louise)
@@ -6,6 +10,8 @@ creator:
     gutenberg_agent_id: '2553'
     url: http://www.gutenberg.org/2009/agents/2553
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7841#A-Primary-Reader-Old-time-Stories-Fairy-Tales-and-Myths-Retold-by-Children
 gutenberg_bookshelf:
 - Children's Myths, Fairy Tales, etc.
 - Children's Instructional Books
